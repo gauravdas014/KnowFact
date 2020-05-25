@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-image: linear-gradient(#7b8788, #4c4b4b, #01cbc6);
+  font-family: "Kaushan Script", cursive;
+}
+
+.neetimg {
+  width: 100%;
+  position: relative;
+}
+
+.head {
+  position: absolute;
+  color: white;
+  font-size: 100px;
+  font-family: "Sriracha", cursive;
+  transform: translate(330px, -900px);
+}
+.head:nth-child(1) {
+  animation-name: neetright;
+  animation-duration: 2s;
+}
+
+.abt {
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: #01cbc6;
+}
+
+.info {
+  font-size: 30px;
+  margin-left: 50px;
+  margin: 12%;
+  display: inline-block;
+  padding: 5%;
+  background-color: aquamarine;
+  border-radius: 20px;
+}
+
+.info:hover {
+  transform: scale(1.2);
+}
+
+/* Button */
+
+.btn {
+  font-size: 20px;
+  text-align: center;
+  margin: 5%;
+  color: aqua;
+  background-color: rgba(0, 0, 255, 0.644);
+  padding: 1%;
+  border-radius: 10px;
+  margin-left: 600px;
+}
+
+.boardvideo {
+  margin-left: 450px;
+}

@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.f1 {
+  height: 250px;
+  width: 250px;
+  margin-top: 6rem;
+  margin-left: 32rem;
+  border-radius: 40px;
+}
+
+.f2 {
+  height: 250px;
+  width: 250px;
+  margin-top: 6rem;
+  margin-left: 32rem;
+  border-radius: 40px;
+}
+
+.f3 {
+  height: 250px;
+  position: relative;
+  width: 250px;
+  margin-top: 6rem;
+  margin-left: 32rem;
+  border-radius: 40px;
+}
+.text0 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: Black;
+  margin-left: 500px;
+  margin-top: 2rem;
+  position: relative;
+}
+
+.text1 {
+  width: 500px;
+  margin-left: 25rem;
+  font-weight: 300;
+  margin-top: 50px;
+  color: wheat;
+}
+.text3 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: white;
+  margin-left: 500px;
+  margin-top: 2rem;
+}
+.text4 {
+  width: 500px;
+  margin-left: 25rem;
+  font-weight: 300;
+  margin-top: 50px;
+  color: wheat;
+}
+
+.text5 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: white;
+  margin-left: 500px;
+  margin-top: 2rem;
+}
+
+.text6 {
+  width: 500px;
+  margin-left: 25rem;
+  font-weight: 300;
+  margin-top: 50px;
+  color: black;
+}
+
+#carousel {
+  background: linear-gradient(lightblue, rgba(72, 72, 204, 0.9));
+  padding-bottom: 50px;
+  z-index: -1;
+}

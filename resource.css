@@ -1,0 +1,84 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background: url("./Images/resource.jpg");
+  background-size: cover;
+}
+
+.jee {
+  float: left;
+  font-size: 70px;
+  padding: 5%;
+  background-color: #eaf0f1;
+  margin-left: 250px;
+  border-radius: 20px;
+  margin-top: 200px;
+  text-decoration: none;
+}
+
+.neet {
+  float: left;
+  font-size: 70px;
+  padding: 5%;
+  background-color: #eaf0f1;
+  margin-left: 250px;
+  border-radius: 20px;
+  margin-top: 50px;
+  text-decoration: none;
+}
+
+.boards {
+  float: left;
+  font-size: 60px;
+  padding: 5%;
+  background-color: #eaf0f1;
+  margin-left: 250px;
+  border-radius: 20px;
+  margin-top: 200px;
+  text-decoration: none;
+}
+.jee:hover {
+  transform: scale(1.3);
+}
+.neet:hover {
+  transform: scale(1.3);
+}
+
+.boards:hover {
+  transform: scale(1.3);
+}
+
+.cards {
+  padding: 2%;
+}
+.resjee {
+  margin-top: 500px;
+  margin-right: 500px;
+  color: grey;
+  text-decoration: none;
+  font-size: 40px;
+  padding-left: 50px;
+}
+.resneet {
+  margin-top: 500px;
+  margin-right: 500px;
+  color: grey;
+  text-decoration: none;
+  font-size: 40px;
+  padding-left: 50px;
+}
+.resboard {
+  margin-top: 500px;
+  margin-right: 500px;
+  color: grey;
+  text-decoration: none;
+  font-size: 40px;
+  padding-left: 50px;
+}
+.jee1 {
+  color: white;
+}
